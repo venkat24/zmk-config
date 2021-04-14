@@ -34,7 +34,7 @@
     &kp Q      &kp W      &kp E       &kp R       &kp T  &kp Y  &kp U       &kp I       &kp O      &kp P
     &hm LGUI A &hm LALT S &hm LCTRL D &hm LSHFT F &kp G  &kp H  &hm RSHFT J &hm RCTRL K &hm RALT L &hm RGUI RET
     &hm LSHFT Z    &kp X       &kp C       &kp V  &kp B  &kp N       &kp M       &kp UP  &hm RSHFT DOT
-    &kp LCTRL  &kp LGUI   &kp LALT       &hm RAISE SPACE    &hm LOWER BSPC   &kp LEFT   &kp DOWN    &kp RIGHT
+    &kp LCTRL  &kp LGUI   &kp LALT       &lt RAISE SPACE    &lt LOWER BSPC   &kp LEFT   &kp DOWN    &kp RIGHT
             >;
         };
 
